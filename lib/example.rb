@@ -1,3 +1,3 @@
 def greeting# Use this space to code along with the readme
-puts = "Hello World!"
+  puts = "Hello World!"
 end
